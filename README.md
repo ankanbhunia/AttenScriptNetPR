@@ -56,10 +56,10 @@ We evaluated our model on four datasets : [CVSI-2015](http://www.ict.griffith.ed
 
 | Dataset    | Trained Model |  Accuracy |
 |----------  |-------------|-------------|
-| CVSI-15   |  [Download (60 MB)]() |   97.5% |
-|    SIW-13  |     [Download (60 MB)]() |  96.8%   |
-| ICDAR-17   |  [Download (60 MB)]() |  91.5%  |
-|    MLe2e |     [Download (60 MB)]() |   95.6%   |
+| CVSI-15   |  [Download (60 MB)]() |   97.75% |
+|    SIW-13  |     [Download (60 MB)]() |  96.5%   |
+| ICDAR-17   |  [Download (60 MB)]() |  91.45%  |
+|    MLe2e |     [Download (60 MB)]() |   96.7%   |
 
 
 ## Usage

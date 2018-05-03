@@ -3,7 +3,7 @@
 
 This repository contains the codes and instructions to use the trained models for all the four datasets described in the paper. 
 
-<img src="figs/scripts.png" alt="Drawing" align="middle" width="600" height="500"/>
+![Alt text](figs/scripts.png)
 
 ## Introduction
 

@@ -1,0 +1,7 @@
+Arabic
+Bangla
+Chinese
+Japanese
+Korean
+Latin
+Symbols

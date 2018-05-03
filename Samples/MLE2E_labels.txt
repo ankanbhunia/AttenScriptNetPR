@@ -1,0 +1,4 @@
+chinese
+kannada
+korean
+latin

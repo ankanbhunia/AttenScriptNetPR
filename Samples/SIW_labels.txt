@@ -1,0 +1,13 @@
+arabic
+cambodian
+chinese
+english
+greek
+hebrew
+japanese
+kannada
+korean
+mongolian
+russian
+thai
+tibetan

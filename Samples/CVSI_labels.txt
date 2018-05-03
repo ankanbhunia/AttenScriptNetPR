@@ -1,0 +1,10 @@
+arb
+ben
+eng
+guj
+hin
+kan
+ori
+pun
+tam
+tel

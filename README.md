@@ -63,7 +63,7 @@ We evaluated our model on four datasets : [CVSI-2015](http://www.ict.griffith.ed
 
 
 ## Usage
-Clone or download this repository. Download the pre-trained models and unzip the models in the `Models/<dataset_name>` folder. Now, open `jupyter notebook` , run the [main.ipynb]() file and execute the code. 
+Clone or download this repository. Download the pre-trained models and unzip the models in the `Models/<dataset_name>` folder. Now, open `jupyter notebook` , run the [main.ipynb](main.ipynb) file and execute the code. 
 
 ## Authors
 

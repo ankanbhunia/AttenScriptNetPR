@@ -54,12 +54,12 @@ We can visualize the relative importance of the patches from the attention maps.
 ## Datasets & Trained models
 We evaluated our model on four datasets : [CVSI-2015](http://www.ict.griffith.edu.au/cvsi2015/Dataset.php),  [SIW-13](http://mclab.eic.hust.edu.cn/~xbai/mspnProjectPage/),  [ICDAR-2017](http://rrc.cvc.uab.es/?ch=8&com=downloads),  [MLe2e](https://www.researchgate.net/profile/Lluis_Gomez2/publication/297469752_MLe2e_multi-lingual_end-to-end_dataset/data/56df2dea08ae9b93f79a8f42/MLe2e-Dataset-v02.zip). To faciliate further research, we are making available the trained models on all these four datasets.  
 
-| Dataset    | Trained Model | 
-|----------  |-------------|
-| CVSI-15   |  [Download]() | 
-|    SIW-13  |     [Download]() | 
-| ICDAR-17   |  [Download]() |
-|    MLe2e |     [Download]() |
+| Dataset    | Trained Model |  Accuracy |
+|----------  |-------------|-------------|
+| CVSI-15   |  [Download (60 MB)]() |   97.5% |
+|    SIW-13  |     [Download (60 MB)]() |  96.8%   |
+| ICDAR-17   |  [Download (60 MB)]() |  91.5%  |
+|    MLe2e |     [Download (60 MB)]() |   95.6   |
 
 
 ## Usage

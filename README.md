@@ -59,7 +59,7 @@ We evaluated our model on four datasets : [CVSI-2015](http://www.ict.griffith.ed
 | CVSI-15   |  [Download (60 MB)]() |   97.5% |
 |    SIW-13  |     [Download (60 MB)]() |  96.8%   |
 | ICDAR-17   |  [Download (60 MB)]() |  91.5%  |
-|    MLe2e |     [Download (60 MB)]() |   95.6   |
+|    MLe2e |     [Download (60 MB)]() |   95.6%   |
 
 
 ## Usage

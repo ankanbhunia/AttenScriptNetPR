@@ -58,7 +58,7 @@ We evaluated our model on four datasets : [CVSI-2015](http://www.ict.griffith.ed
 |----------  |-------------|-------------|
 | CVSI-15   |  [Download](https://drive.google.com/open?id=1_Z-XV1Pi-UmIgnjJjVvpCkMiRKqFBmrR) |   97.75% |
 |    SIW-13  |     [Download](https://drive.google.com/open?id=1vK_CjS-I9_pNK2Cm_JCgp06gKcL6lOrB) |  96.5%   |
-| ICDAR-17   |  [Download]() |  91.45%  |
+| ICDAR-17   |  [Download]() |  90.45%  |
 |    MLe2e |     [Download](https://drive.google.com/open?id=1miaoG0AGlWLltvklU0V870wR0q09CBdo) |   96.7%   |
 
 

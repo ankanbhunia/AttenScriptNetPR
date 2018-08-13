@@ -68,7 +68,7 @@ Clone or download this repository. Download the pre-trained models and unzip the
 
 ## Citations
 If you find this code useful in your research, please consider citing:
-'''
+
 @article{BHUNIA2018,
 title = "Script Identification in Natural Scene Image and Video Frames using an Attention based Convolutional-LSTM Network",
 journal = "Pattern Recognition",
@@ -79,7 +79,7 @@ url = "http://www.sciencedirect.com/science/article/pii/S0031320318302590",
 author = "Ankan Kumar Bhunia and Aishik Konwer and Ayan Kumar Bhunia and Abir Bhowmick and Partha P. Roy and Umapada Pal",
 keywords = "Script Identification, Convolutional Neural Network, Long Short-Term Memory, Local feature, Global feature, Attention Network, Dynamic Weighting"
 }
-'''
+
 
 ## Authors
 

@@ -66,6 +66,19 @@ We evaluated our model on four datasets : [CVSI-2015](http://www.ict.griffith.ed
 ## Usage
 Clone or download this repository. Download the pre-trained models and unzip the models in the `Models/<dataset_name>` folder. Now, open `jupyter notebook` , run the [main.ipynb](main.ipynb) file and execute the code. 
 
+## Citations
+If you find this code useful in your research, please consider citing:
+'@article{BHUNIA2018,
+title = "Script Identification in Natural Scene Image and Video Frames using an Attention based Convolutional-LSTM Network",
+journal = "Pattern Recognition",
+year = "2018",
+issn = "0031-3203",
+doi = "https://doi.org/10.1016/j.patcog.2018.07.034",
+url = "http://www.sciencedirect.com/science/article/pii/S0031320318302590",
+author = "Ankan Kumar Bhunia and Aishik Konwer and Ayan Kumar Bhunia and Abir Bhowmick and Partha P. Roy and Umapada Pal",
+keywords = "Script Identification, Convolutional Neural Network, Long Short-Term Memory, Local feature, Global feature, Attention Network, Dynamic Weighting"
+}'
+
 ## Authors
 
 - [Ankan Kumar Bhunia*](https://scholar.google.com/citations?user=2leAc3AAAAAJ&hl=en)

@@ -1,7 +1,7 @@
 
-# Script Identification in Natural Scene Image and Video Frame using Attention based Convolutional-LSTM Network [[Arxiv]](https://arxiv.org/ftp/arxiv/papers/1801/1801.00470.pdf) 
+# Script Identification in Natural Scene Image and Video Frame using Attention based Convolutional-LSTM Network [[PDF](AttenScriptNet.pdf) [Arxiv]](https://arxiv.org/ftp/arxiv/papers/1801/1801.00470.pdf) 
 
-![Alt text](AttenScriptNet.pdf)
+
 ```Accepted at Pattern Recognition 2018```
 
 This repository contains the codes and instructions to use the trained models for all the four datasets described in the paper. 

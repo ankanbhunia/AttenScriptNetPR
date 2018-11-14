@@ -2,8 +2,6 @@
 # Script Identification in Natural Scene Image and Video Frame using Attention based Convolutional-LSTM Network [[PDF]](AttenScriptNet.pdf)[[Arxiv]](https://arxiv.org/ftp/arxiv/papers/1801/1801.00470.pdf) 
 [https://www.sciencedirect.com/science/article/pii/S0031320318302590](https://www.sciencedirect.com/science/article/pii/S0031320318302590)
 
-### Complete codes of the paper were developed by [Ankan Kumar Bhunia](https://in.linkedin.com/in/ankan-kumar-bhunia-0a5ab8138) and the central idea of the paper was proposed by [Ayan Kumar Bhunia](https://sites.google.com/site/ayanbhunia007/)
-
 ```Published in Pattern Recognition 2019```
 
 This repository contains the codes and instructions to use the trained models for all the four datasets described in the paper. 
@@ -87,9 +85,11 @@ If you find this code useful in your research, please consider citing:
 
 ## Authors
 
-- [Ankan Kumar Bhunia](https://scholar.google.com/citations?user=2leAc3AAAAAJ&hl=en)
-- [Aishik Konwer](https://scholar.google.co.in/citations?user=Vtq1xfgAAAAJ&hl=en)
+- [*Ankan Kumar Bhunia](https://scholar.google.com/citations?user=2leAc3AAAAAJ&hl=en)
+- [*Aishik Konwer](https://scholar.google.co.in/citations?user=Vtq1xfgAAAAJ&hl=en)
 - [Ayan Kumar Bhunia](https://sites.google.com/site/ayanbhunia007/)
+
+ * both the authors have equal contributions
 
 
 

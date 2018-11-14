@@ -89,7 +89,7 @@ If you find this code useful in your research, please consider citing:
 - [*Aishik Konwer](https://scholar.google.co.in/citations?user=Vtq1xfgAAAAJ&hl=en)
 - [Ayan Kumar Bhunia](https://sites.google.com/site/ayanbhunia007/)
 
- * both the authors have equal contributions
+   *both the authors have equal contributions
 
 
 
